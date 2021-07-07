@@ -1,4 +1,4 @@
-# Active handout Example Course
+# My Awesome Programming Languages Course
 
 This repository contains an example of how to create a course page with [insper active handout](https://insper-education.github.io/active-handout/).
 
